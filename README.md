@@ -22,3 +22,6 @@ Upon running the second command, the output of the file is displayed on the term
 
 `sys_info_page > sys_info_page.html
 firefox sys_info_page.html`
+
+For more detailed explanation, you can visit my blog:
+https://roadtofuturetech.wordpress.com/
